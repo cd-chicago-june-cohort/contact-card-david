@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    width: 970px;
+    overflow: hidden;
+    margin: 0px auto;
+}
+#left{
+    width: 400px;
+    height: 600px;
+    background-color: teal;
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px;
+}
+#right{
+    width: 400px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px;
+}
+#first{
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+}
+#last{
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+}
+#info{
+    margin-top: 50px;
+}
+#infoBox{
+    height: 200px;
+    width: 350px;
+    border-radius: 10px;
+}
+#addUser{
+    margin-top: 75px;
+    width: 150px;
+}
+.card{
+    height: 100px;
+    background-color: blanchedalmond;
+    margin-top: 10px;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.firstN{
+    font-size: 30px;
+    display: inline;
+}
+.lastN{
+    font-size: 30px;
+    display: inline;
+}
+.clickHere{
+    margin-top: 20px;
+}
+#newInfoBox{
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+    background-color: orange;
+    overflow: hidden;
+}
